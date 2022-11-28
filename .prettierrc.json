@@ -4,11 +4,11 @@
   "useTabs": false,
   "semi": true,
   "singleQuote": true,
+  "quoteProps": "consistent",
   "jsxSingleQuote": true,
-  "trailingComma": "all",
+  "trailingComma": "none",
   "bracketSpacing": true,
-  "jsxBracketSameLine": false,
-  "arrowParens": "avoid",
+  "bracketSameLine": true,
   "proseWrap": "always",
-  "htmlWhitespaceSensitivity": "ignore"
+  "htmlWhitespaceSensitivity": "strict"
 }
